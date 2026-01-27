@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="left">:wave: Hello there! I'm Sabyrka</h1>
 
 <h2 align="left" id="debabin-stack">🔥 Tech stack</h2>
 
