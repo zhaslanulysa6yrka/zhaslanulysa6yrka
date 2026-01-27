@@ -1,11 +1,14 @@
 <h1 align="left">:wave: Hello there! I'm Sabyrka</h1>
 
-<h3 align="left" id="debabin-stack">Frontend Developer from Kazakhstan</h3>
+<h3 align="left" id="debabin-stack">Frontend Developer from Kazakhstan 🦅</h3>
 
-- &nbsp;I develop for all platforms using **[Typescript](https://www.typescriptlang.org/)**
-- &nbsp;Let's talk more in **[Telegram](https://t.me/sabyrka)**
+I work with **[Typescript](https://www.typescriptlang.org/)** and a modern tech stack, enjoy writing clean code, <br />
+building intuitive interfaces, and creating practical solutions. <br />
+Constantly learning and strengthening my fundamentals.
 
-<h3 align="left" id="debabin-stack">Tech stack</h3>
+&nbsp;Let's talk more in **[Telegram](https://t.me/sabyrka)** 😉
+
+<h3 align="left" id="debabin-stack">🔥 Tech stack</h3>
 
 > General
 
@@ -131,4 +134,3 @@
     </td>
   </tr>
 </table>
-
